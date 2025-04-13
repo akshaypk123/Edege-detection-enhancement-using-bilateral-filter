@@ -24,3 +24,10 @@ The methodology follows a structured pipeline, beginning with image acquisition,
 evaluation.
 
 ![image](https://github.com/user-attachments/assets/34066d33-7178-4589-8982-91568d465435)
+
+
+# Inference
+
+
+![image](https://github.com/user-attachments/assets/3adfdafa-092e-4641-a357-5a373ab04f62)
+
